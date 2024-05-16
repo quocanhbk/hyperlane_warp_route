@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=../schema.json
+name: funkitestnet
+chainId: 3397901
+domainId: 3397901
+protocol: ethereum
+rpcUrls:
+  - http: https://funki-testnet.alt.technology

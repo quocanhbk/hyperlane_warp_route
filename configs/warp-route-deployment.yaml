@@ -1,0 +1,7 @@
+sepolia:
+  type: collateralVault
+  token: "0x83939e42C8bb547DFA06522f0aaCF5f31F39Fd0E"
+  isNft: false
+funkitestnet:
+  type: synthetic
+
